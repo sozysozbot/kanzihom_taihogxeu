@@ -2,5 +2,6 @@ p {text-indent: 15px;}
 table * {padding: 3px;}
 table span{padding: 0px;}
 table strong{padding: 0px;}
+tr > td:first-child:last-child{background-color: #f0f0f0}
 [title] {text-decoration: underline dotted; background-color: #fff0f0;}
 .shiep {background-color: #f0f0ff; font-weight: bold; }
