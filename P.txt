@@ -45,11 +45,11 @@
 am
 riem
 ram
-yom
-oŋ
-ryen
+.yom
+.oŋ
+.ryen
 ia
-rim
+.rim
 em
 .iei
 .ai
