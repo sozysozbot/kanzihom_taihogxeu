@@ -68,11 +68,11 @@ em
 .at
 .ret
 .rat
-et
+.et
 .iet
 .ryet
-yak
-ak
+.yak
+.ak
 rak
 riek
 rek
