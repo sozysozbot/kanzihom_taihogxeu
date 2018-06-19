@@ -73,11 +73,11 @@ em
 .ryet
 .yak
 .ak
-rak
+.rak
 riek
-rek
-iek
-ek
+.rek
+.iek
+.ek
 ryək
 ək
 rip
